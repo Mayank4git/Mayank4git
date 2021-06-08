@@ -2,26 +2,20 @@
 
 [<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
 
-## Hi, I'm Mridul
+##  I'm MAYANK KAUSHIK
 
 [<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
-## I'm a Student and a Web Developer!
+## I'm a Student and a Web Developer and Open Source contributor!
 
 
 ◾ 💻 Currently learning **[React][react]**.
 <br/>
 ◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
 <br/>
-◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
+◾ 🥅 2021 Goals: Being Fluent in **[MERN][MERN]**.
 <br/>
-◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
-<br/>
-◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
-<br/>
-◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
-<br/>
-◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
+◾ ❤ Fun fact: I love to Play **[Technology]** sooo much.
 <br/>
 <br/>
 
@@ -78,24 +72,8 @@
 
 ---
 
-## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
-<!-- YOUTUBE:START -->
-- [Happy Birthday Rohit Sharma #HappyBirthdayRohitSharma #HappyBirthdayRohit #Hitman](https://www.youtube.com/watch?v=rm-OLcCff4Y)
-- [RCB vs KKR Live Match Today | IPL 2021 Live Match Today |  IPL Match Live](https://www.youtube.com/watch?v=TTmNbzbEmFg)
-- [KKR  vs MI Live Match Today | IPL 2021 Live Match Today |  IPL Match Live Bengali Commentary](https://www.youtube.com/watch?v=JbmcLmdi_TM)
-- [RR vs PBKS Live Match Today | IPL 2021 Live Match Today |  Rajasthan Royals vs Punjab Kings Live](https://www.youtube.com/watch?v=Q2xAGnGQUOU)
-- [SRH Vs KKR Highlights | IPL 2021 Match Highlights| IPL 2021 Match](https://www.youtube.com/watch?v=X0nxWkOYq9g)
-<!-- YOUTUBE:END -->
-➡️ [more sportz videos...][sportzhut]
 
----
-
-[myprofile]: https://github.com/Mridul2820
-[buymeacoffee]: https://www.buymeacoffee.com/Mriduls
-[CricHut]: https://www.facebook.com/crichutcricket/
-[sportzhut]: https://www.youtube.com/sportzhut
-[facebook]: https://www.facebook.com/mridul.panda.754/
-[instagram]: https://www.instagram.com/i_mridul
-[twitter]: https://twitter.com/i_mridul
-[hattsoff]: https://www.hattsoffstore.com/
+[myprofile]: https://github.com/Mayank4git
+[facebook]: https://www.facebook.com/mayank.kaushik.77985/
+[instagram]: https://www.instagram.com/_kaushik1999/
 [react]: https://reactjs.org/
