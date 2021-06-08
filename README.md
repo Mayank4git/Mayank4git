@@ -1,73 +1,39 @@
-### Hi there 👋
+## Hello World!! <img src="https://raw.githubusercontent.com/rohitshakya/rohitshakya/master/gifs/HI.gif" width="30px"></h2>
 
-##  I'm MAYANK KAUSHIK
-
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="280">][myprofile]
-
-## I'm a Lead Web Developer and Open Source contributor!
-
-
-◾ 💻 Currently learning **[React][react]**.
-<br/>
-◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
-<br/>
-◾ 🥅 2021 Goals: Being Fluent in **[MERN][MERN]**.
-<br/>
-◾ ❤ Fun fact: I love to Play **[Technology]** sooo much.
-<br/>
-<br/>
-
----
-
-### 🧧 Connect with me:
-
-[<img align="left" alt="Mayank4git | Facebook" width="35px" src="https://Mayank4git.github.io/github-assets/assets/social/facebook.svg" />][facebook]
-[<img align="left" alt="Mayank4git | Instagram" width="35px" src="https://Mayank4git.github.io/github-assets/assets/social/instagram.svg" />][instagram]
-[<img align="left" alt="Mayank4git | Twitter" width="35px" src="https://Mayank4git.github.io/github-assets/assets/social/twitter.svg" />][twitter]
+<a href="https://www.linkedin.com/in/mayankvip9/">
+  <img align="left" alt="rohitrkshakya-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_kaushik1999/	">
+  <img align="left" alt="rohit.rkshakya_Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mayank.kaushik.77985/">
+  <img align="left" alt="rohit.rrshakya/fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.hackerrank.com/mayankvip9">
+  <img align="left" alt="rohitshakya_Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 
 <br />
 
-[<img align="right" src="https://Mayank4git.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="280">][myprofile]
+### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rohitshakya.rohitshakya)
 
+I'm currently an MSc student at Meerut College, Meerut ,and a Lead Web Developer.
 <br />
 
-[<img align="left" alt="Mayank4git | bmc" width="250px" src="https://Mayank4git.github.io/github-assets/assets/social/BMC.svg" />][buymeacoffee]
-
-<br />
-<br />
-<br />
-
-### ⚙ Languages and Tools  I use :
-
-[<img align="left" alt="HTML5" width="33px" src="https://Mayank4git.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
-[<img align="left" alt="CSS3" width="33px" src="https://Mayank4git.github.io/github-assets/assets/tech/css.svg" />][myprofile]
-[<img align="left" alt="JavaScript" width="25px" src="https://Mayank4git.github.io/github-assets/assets/tech/js.png" />][myprofile]
-[<img align="left" alt="PHP" width="33px" src="https://Mayank4git.github.io/github-assets/assets/tech/PHP.svg" />][myprofile]
-[<img align="left" alt="React" width="33px" src="https://Mayank4git.github.io/github-assets/assets/tech/react.svg" />][myprofile]
-<br />
-<br />
-[<img align="left" alt="Node.js" width="33px" src="https://Mayank4git.github.io/github-assets/assets/tech/node-js.png" />][myprofile]
-[<img align="left" alt="GitHub" width="33px" src="https://Mayank4git.github.io/github-assets/assets/tech/github.svg" />][myprofile]
-[<img align="left" alt="Firebase" width="40px" src="https://Mayank4git.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
-
-<br />
-
-### 🛠 Softwares I Use : 
-
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
-<br />
-
-[<img align="right" src="https://Mayank4git.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="280">][myprofile]
-
----
-
-## 💳 Language Card
-<img align="center" alt="MMayank4git's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=Mayank4git&&layout=compact" />
-
----
+- 🔭 Must watch repositories: [codebank](https://github.com/Mayank4git/CodeBank), [web projects](https://github.com/Mayank4git/tyrecompany.github.io)
+- 💬 Ask me about web development, data structures, algorithm.
+- 📫 How to reach me: Mayankvip9@gmail.com.com
 
 
-[myprofile]: https://github.com/Mayank4git
-[facebook]: https://www.facebook.com/mayank.kaushik.77985/
-[instagram]: https://www.instagram.com/_kaushik1999/
-[react]: https://reactjs.org/
+### Talking about My  Stuffs:
+I am computer science geek and like to explore new technologies. I recently started learning MERN stack for Web Development.I have worked on some open source projects and have been a freelancer for 1+ years of experience.
+Apart my technical skills, i am good at time management and have good leadership qualities.I worked as volunteer during college technical fest and managed teammats too.
+#
+![Mayank Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=Mayank4git&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+#
+<div align="center">
+
+### Explore my repositories to know more about me
+
+</div>
+
